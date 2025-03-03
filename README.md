@@ -27,7 +27,7 @@ currency amounts.
 
 ## Steps to Run the Application Locally
 
-  - Clone the repository:git clone https://github.com/yourusername/currency-converter.git
+  - Clone the repository:git clone https://github.com/Akhila1995576/Currency_Converter
   - Navigate to the project directory: cd currency-converter
 
 1. Configure the API key:
